@@ -42,11 +42,9 @@ The GEM family contains three main variants:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/USERNAME/GEM-FI.git
+git clone https://github.com/Marcorazhan/GEM-FI.git
 cd GEM-FI
 ```
-
-Replace `USERNAME/GEM-FI` with the final public repository path.
 
 ### 2. Create an environment
 
