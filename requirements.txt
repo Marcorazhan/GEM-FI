@@ -1,0 +1,29 @@
+# Core DL stack (CUDA 12.1 builds)
+torch==2.3.0+cu121
+torchvision==0.18.0+cu121
+torchaudio==2.3.0+cu121
+
+# Numerics / data
+numpy==1.25.2
+scipy==1.10.1
+pandas==2.2.2
+
+# Viz / analysis
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# ML utils & metrics
+scikit-learn==1.5.0
+tqdm==4.66.5
+pillow==11.0.0
+joblib==1.5.2
+psutil==7.1.0
+
+# Console helpers
+colorama==0.4.6
+termcolor==3.1.0
+
+# Optional but recommended for your workflow
+tensorboard
+pyyaml
+opencv-python
